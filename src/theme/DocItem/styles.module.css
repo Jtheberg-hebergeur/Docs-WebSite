@@ -1,0 +1,24 @@
+.docFooterEditMetaRow {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.docFooterEditMetaRowContent {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.editMetaRow {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+@media (max-width: 768px) {
+  .docFooterEditMetaRow {
+    margin-top: 2rem;
+    padding-top: 1rem;
+  }
+}

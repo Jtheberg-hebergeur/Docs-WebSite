@@ -1,0 +1,33 @@
+{
+  "id": "pterodactyl/wings/dependances",
+  "title": "Dépendances",
+  "description": "* curl",
+  "source": "@site/docs/pterodactyl/wings/dependances.md",
+  "sourceDirName": "pterodactyl/wings",
+  "slug": "/pterodactyl/wings/dependances",
+  "permalink": "/pterodactyl/wings/dependances",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/wings/dependances.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Systèmes pris en charge",
+    "permalink": "/pterodactyl/wings/systemes-pris-en-charge"
+  },
+  "next": {
+    "title": "Installing Wings",
+    "permalink": "/pterodactyl/wings/installing-wings"
+  }
+}

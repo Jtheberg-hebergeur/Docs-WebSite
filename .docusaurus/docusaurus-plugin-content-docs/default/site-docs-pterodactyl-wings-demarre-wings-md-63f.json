@@ -1,0 +1,33 @@
+{
+  "id": "pterodactyl/wings/demarre-wings",
+  "title": "Démarré Wings",
+  "description": "Pour démarrer Wings, exécutez simplement la commande ci-dessous, qui le lancera en mode débogage. Une fois que vous avez vérifié qu'il fonctionne sans erreur, utilisez CTRL+C pour terminer le processus et le démoniser en suivant les instructions ci-dessous. En fonction de la connexion Internet de votre serveur, le téléchargement et le démarrage de Wings pour la première fois peuvent prendre quelques minutes.",
+  "source": "@site/docs/pterodactyl/wings/demarre-wings.md",
+  "sourceDirName": "pterodactyl/wings",
+  "slug": "/pterodactyl/wings/demarre-wings",
+  "permalink": "/pterodactyl/wings/demarre-wings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/wings/demarre-wings.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Allocations de nodes",
+    "permalink": "/pterodactyl/wings/allocations-de-nodes"
+  },
+  "next": {
+    "title": "Mise a jour de Wings",
+    "permalink": "/pterodactyl/wings/mise-a-jour-de-wings"
+  }
+}

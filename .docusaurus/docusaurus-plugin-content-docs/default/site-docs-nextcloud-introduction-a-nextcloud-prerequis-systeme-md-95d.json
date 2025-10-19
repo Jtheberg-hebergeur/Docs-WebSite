@@ -1,0 +1,33 @@
+{
+  "id": "nextcloud/introduction-a-nextcloud/prerequis-systeme",
+  "title": "Prérequis système",
+  "description": "Légende :",
+  "source": "@site/docs/nextcloud/introduction-a-nextcloud/prerequis-systeme.md",
+  "sourceDirName": "nextcloud/introduction-a-nextcloud",
+  "slug": "/nextcloud/introduction-a-nextcloud/prerequis-systeme",
+  "permalink": "/nextcloud/introduction-a-nextcloud/prerequis-systeme",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/nextcloud/introduction-a-nextcloud/prerequis-systeme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction à Nextcloud",
+    "permalink": "/nextcloud/introduction-a-nextcloud/"
+  },
+  "next": {
+    "title": "Guide d'Installation",
+    "permalink": "/nextcloud/introduction-a-nextcloud/guide-dinstallation"
+  }
+}

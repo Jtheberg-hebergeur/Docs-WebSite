@@ -1,0 +1,34 @@
+{
+  "id": "plesk/installer-plesk",
+  "title": "Installer Plesk",
+  "description": "Pour installer Plesk, il vous suffit d'exécuter une simple commande pour que la magie fasse le travail à votre place. ✨",
+  "source": "@site/docs/plesk/installer-plesk.md",
+  "sourceDirName": "plesk",
+  "slug": "/plesk/installer-plesk",
+  "permalink": "/plesk/installer-plesk",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/plesk/installer-plesk.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Installer Plesk",
+    "sidebar_position": 1,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔧 Plesk",
+    "permalink": "/category/-plesk"
+  },
+  "next": {
+    "title": "🐳 Docker",
+    "permalink": "/category/-docker"
+  }
+}

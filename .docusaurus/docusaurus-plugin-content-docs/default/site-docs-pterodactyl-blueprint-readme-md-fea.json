@@ -1,0 +1,33 @@
+{
+  "id": "pterodactyl/blueprint/README",
+  "title": "Blueprint",
+  "description": "Avant de commencer à exécuter une série de commandes, nous devons préparer quelques éléments. Cela ne prendra pas longtemps !",
+  "source": "@site/docs/pterodactyl/blueprint/README.md",
+  "sourceDirName": "pterodactyl/blueprint",
+  "slug": "/pterodactyl/blueprint/",
+  "permalink": "/pterodactyl/blueprint/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/blueprint/README.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎨 Blueprint",
+    "permalink": "/category/-blueprint"
+  },
+  "next": {
+    "title": "Comment corriger une installation incomplète de Blueprint",
+    "permalink": "/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint"
+  }
+}

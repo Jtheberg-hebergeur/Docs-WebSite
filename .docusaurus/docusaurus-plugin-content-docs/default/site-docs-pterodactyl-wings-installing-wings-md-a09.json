@@ -1,0 +1,33 @@
+{
+  "id": "pterodactyl/wings/installing-wings",
+  "title": "Installing Wings",
+  "description": "La première étape pour installer Wings consiste à s'assurer que la structure de répertoires requise est bien configurée. Pour ce faire, exécutez les commandes ci-dessous, qui créeront le répertoire de base et téléchargeront l'exécutable Wings.",
+  "source": "@site/docs/pterodactyl/wings/installing-wings.md",
+  "sourceDirName": "pterodactyl/wings",
+  "slug": "/pterodactyl/wings/installing-wings",
+  "permalink": "/pterodactyl/wings/installing-wings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/wings/installing-wings.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dépendances",
+    "permalink": "/pterodactyl/wings/dependances"
+  },
+  "next": {
+    "title": "Configure",
+    "permalink": "/pterodactyl/wings/configure"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "docker/docker-engine",
+  "title": "Docker Engine",
+  "description": "Installer sur Ubuntu",
+  "source": "@site/docs/docker/docker-engine.md",
+  "sourceDirName": "docker",
+  "slug": "/docker/docker-engine",
+  "permalink": "/docker/docker-engine",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/docker/docker-engine.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Docker Engine",
+    "sidebar_position": 3,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker Compose",
+    "permalink": "/docker/docker-compose"
+  },
+  "next": {
+    "title": "🔷 Podman",
+    "permalink": "/category/-podman"
+  }
+}

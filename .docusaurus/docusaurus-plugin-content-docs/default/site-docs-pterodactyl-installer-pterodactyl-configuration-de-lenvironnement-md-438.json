@@ -1,0 +1,33 @@
+{
+  "id": "pterodactyl/installer-pterodactyl/configuration-de-lenvironnement",
+  "title": "Configuration de l'environnement",
+  "description": "L'environnement principal de Pterodactyl est facilement configuré à l'aide de quelques commandes CLI différentes intégrées à l'application. Cette étape couvrira la configuration d'éléments tels que les sessions, la mise en cache, les informations d'identification de la base de données et l'envoi d'e-mails.",
+  "source": "@site/docs/pterodactyl/installer-pterodactyl/configuration-de-lenvironnement.md",
+  "sourceDirName": "pterodactyl/installer-pterodactyl",
+  "slug": "/pterodactyl/installer-pterodactyl/configuration-de-lenvironnement",
+  "permalink": "/pterodactyl/installer-pterodactyl/configuration-de-lenvironnement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/installer-pterodactyl/configuration-de-lenvironnement.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/pterodactyl/installer-pterodactyl/installation"
+  },
+  "next": {
+    "title": "Configuration du serveur Web",
+    "permalink": "/pterodactyl/installer-pterodactyl/configuration-du-serveur-web"
+  }
+}

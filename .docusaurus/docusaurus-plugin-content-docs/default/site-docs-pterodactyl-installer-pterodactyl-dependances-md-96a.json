@@ -1,0 +1,33 @@
+{
+  "id": "pterodactyl/installer-pterodactyl/dependances",
+  "title": "Dépendances",
+  "description": "* PHP 8.2 ou 8.3 (recommandé) avec les extensions suivantes : cli, openssl, gd, mysql, PDO, mbstring, tokenizer, bcmath, xml ou dom, curl, zip, et fpm si vous envisagez d'utiliser NGINX.",
+  "source": "@site/docs/pterodactyl/installer-pterodactyl/dependances.md",
+  "sourceDirName": "pterodactyl/installer-pterodactyl",
+  "slug": "/pterodactyl/installer-pterodactyl/dependances",
+  "permalink": "/pterodactyl/installer-pterodactyl/dependances",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/installer-pterodactyl/dependances.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Choisir un système d'exploitation serveur",
+    "permalink": "/pterodactyl/installer-pterodactyl/choisir-un-systeme-dexploitation-serveur"
+  },
+  "next": {
+    "title": "Télécharger des fichiers",
+    "permalink": "/pterodactyl/installer-pterodactyl/telecharger-des-fichiers"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pterodactyl/installer-pterodactyl/telecharger-des-fichiers",
+  "title": "Télécharger des fichiers",
+  "description": "La première étape de ce processus consiste à créer le dossier dans lequel le panneau vivra, puis à nous y déplacer dossier nouvellement créé. Vous trouverez ci-dessous un exemple de la manière d’effectuer cette opération.",
+  "source": "@site/docs/pterodactyl/installer-pterodactyl/telecharger-des-fichiers.md",
+  "sourceDirName": "pterodactyl/installer-pterodactyl",
+  "slug": "/pterodactyl/installer-pterodactyl/telecharger-des-fichiers",
+  "permalink": "/pterodactyl/installer-pterodactyl/telecharger-des-fichiers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/installer-pterodactyl/telecharger-des-fichiers.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dépendances",
+    "permalink": "/pterodactyl/installer-pterodactyl/dependances"
+  },
+  "next": {
+    "title": "Installation",
+    "permalink": "/pterodactyl/installer-pterodactyl/installation"
+  }
+}

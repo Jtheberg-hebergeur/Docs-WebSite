@@ -1,0 +1,203 @@
+import React from 'react';
+import clsx from 'clsx';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Layout from '@theme/Layout';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import SlidingBanner from '../components/SlidingBanner';
+import Contributors from '../components/Contributors';
+
+import styles from './index.module.css';
+
+function HomepageHeader() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <header className={styles.heroBanner}>
+      <SlidingBanner />
+      <div className={styles.heroContent}>
+        <h1 className={styles.heroTitle}>{siteConfig.title}</h1>
+        <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
+        <p className={styles.heroAuthor}>
+          Maintenu par{' '}
+          <a 
+            href="https://github.com/KizYTB" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className={styles.authorLink}
+          >
+            Kiz___
+          </a>{' '}
+          - Président de Jtheberg.cloud
+        </p>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro">
+            Commencer la Documentation 📚
+          </Link>
+          <Link
+            className="button button--outline button--lg"
+            to="https://jtheberg.cloud">
+            Visiter le Site Principal 🏠
+          </Link>
+        </div>
+      </div>
+    </header>
+  );
+}
+
+function Features() {
+  const features = [
+    {
+      title: '🚀 Performance Optimisée',
+      description: 'Nos serveurs VPS sont équipés de processeurs dernière génération, de stockage SSD ultra-rapide et d\'une bande passante illimitée. Bénéficiez d\'une infrastructure cloud redondante pour garantir une disponibilité de 99.9% et des temps de réponse inférieurs à 50ms.',
+    },
+    {
+      title: '🔒 Sécurité Avancée',
+      description: 'Protection DDoS automatique, certificats SSL Let\'s Encrypt gratuits, pare-feu configuré et mises à jour de sécurité automatiques. Vos données sont chiffrées et surveillées 24/7 avec des sauvegardes quotidiennes incluses.',
+    },
+    {
+      title: '💬 Support 24/7',
+      description: 'Notre équipe d\'experts francophones est disponible à toute heure via chat en direct, tickets ou téléphone. Temps de réponse moyen de 15 minutes et résolution garantie sous 24h pour les problèmes critiques.',
+    },
+    {
+      title: '📚 Documentation Complète',
+      description: 'Plus de 200 guides détaillés couvrant l\'installation, la configuration et le dépannage de tous nos services. Tutoriels vidéo, exemples de code et communauté active pour vous accompagner dans vos projets.',
+    },
+  ];
+
+  return (
+    <section className={styles.features}>
+      <div className="container">
+        <h2 className={styles.sectionTitle}>
+          Pourquoi Choisir Jtheberg.cloud ?
+        </h2>
+        <p className={styles.sectionSubtitle}>
+          Découvrez ce qui fait de nous le choix idéal pour vos besoins d'hébergement
+        </p>
+        <div className={styles.featuresGrid}>
+          {features.map((feature, idx) => (
+            <div key={idx} className={styles.featureCard}>
+              <h3>{feature.title}</h3>
+              <p>{feature.description}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function Documentation() {
+  const docs = [
+    {
+      title: '🦖 Pterodactyl Panel',
+      description: 'Guide complet d\'installation et configuration de Pterodactyl Panel pour gérer vos serveurs de jeux. Installation Wings, Blueprint, configuration serveur web et dépannage avancé.',
+      link: '/docs/pterodactyl',
+      features: ['Installation Panel', 'Configuration Wings', 'Extensions Blueprint', 'Dépannage'],
+    },
+    {
+      title: '🐳 Docker',
+      description: 'Apprenez à conteneuriser vos applications avec Docker. Installation Docker Engine, Docker Compose, gestion des conteneurs et déploiement d\'applications.',
+      link: '/docs/docker',
+      features: ['Installation Docker', 'Docker Compose', 'Conteneurs', 'Déploiement'],
+    },
+    {
+      title: '🔷 Podman',
+      description: 'Alternative à Docker sans daemon. Installation Podman, gestion des pods, intégration avec systemd et migration depuis Docker.',
+      link: '/docs/podman',
+      features: ['Installation Podman', 'Gestion Pods', 'Systemd', 'Migration'],
+    },
+    {
+      title: '☁️ Nextcloud',
+      description: 'Solution d\'hébergement de fichiers et de collaboration. Installation, configuration des applications, optimisation des performances et sécurisation de votre instance.',
+      link: '/docs/nextcloud',
+      features: ['Installation', 'Applications', 'Optimisation', 'Sécurité'],
+    },
+    {
+      title: '🖥️ Plesk',
+      description: 'Panneau d\'administration serveur tout-en-un. Installation, configuration des sites web, gestion des emails, bases de données et sécurité.',
+      link: '/docs/plesk',
+      features: ['Installation', 'Sites Web', 'Emails', 'Bases de données'],
+    },
+    {
+      title: '📦 Autres Services',
+      description: 'Découvrez nos autres guides et tutoriels pour configurer et optimiser vos services en ligne.',
+      link: '/docs/category/services',
+      features: ['Guides divers', 'Tutoriels', 'Astuces', 'Bonnes pratiques'],
+    },
+  ];
+
+  return (
+    <section className={styles.documentation}>
+      <div className="container">
+        <h2 className={styles.sectionTitle}>
+          Documentation Complète
+        </h2>
+        <p className={styles.sectionSubtitle}>
+          Accédez à nos guides détaillés pour configurer et optimiser vos services Jtheberg.cloud
+        </p>
+        <div className={styles.docsGrid}>
+          {docs.map((doc, idx) => (
+            <div key={idx} className={styles.docCard}>
+              <h3>{doc.title}</h3>
+              <p>{doc.description}</p>
+              <div className={styles.docFeatures}>
+                {doc.features.map((feature, fIdx) => (
+                  <span key={fIdx} className={styles.docFeature}>
+                    {feature}
+                  </span>
+                ))}
+              </div>
+              <Link to={doc.link} className={styles.docLink}>
+                Voir la documentation →
+              </Link>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function CTA() {
+  return (
+    <section className={styles.cta}>
+      <div className="container">
+        <div className={styles.ctaContent}>
+          <h2>Prêt à commencer ?</h2>
+          <p>Découvrez comment Jtheberg.cloud peut vous aider à déployer et gérer vos applications en toute simplicité.</p>
+          <div className={styles.ctaButtons}>
+            <Link
+              className="button button--primary button--lg"
+              to="/docs/intro">
+              Démarrer avec la documentation
+            </Link>
+            <Link
+              className="button button--outline button--lg"
+              to="https://jtheberg.cloud">
+              Visiter Jtheberg.cloud
+            </Link>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+export default function Home() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <Layout
+      title={`Bienvenue sur ${siteConfig.title}`}
+      description="Documentation complète pour les services Jtheberg.cloud">
+      <HomepageHeader />
+      <main>
+        <Features />
+        <Documentation />
+        <Contributors />
+        <CTA />
+      </main>
+    </Layout>
+  );
+}

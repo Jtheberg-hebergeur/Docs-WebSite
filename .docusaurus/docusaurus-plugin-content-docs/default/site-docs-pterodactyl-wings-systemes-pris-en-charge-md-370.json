@@ -1,0 +1,33 @@
+{
+  "id": "pterodactyl/wings/systemes-pris-en-charge",
+  "title": "Systèmes pris en charge",
+  "description": "Voici une liste des systèmes d’exploitation pris en charge. Veuillez noter qu'il ne s'agit pas d'une liste exhaustive, il y a une forte probabilité que vous puissiez exécuter le logiciel sur d'autres distributions Linux sans trop d'effort. Vous êtes responsable de déterminer quels packages peuvent être nécessaires sur ces systèmes. Il y a aussi un très il est fort probable que les nouvelles versions des systèmes d'exploitation pris en charge ci-dessous fonctionneront très bien, vous n'êtes pas limité à uniquement les versions listées ci-dessous.",
+  "source": "@site/docs/pterodactyl/wings/systemes-pris-en-charge.md",
+  "sourceDirName": "pterodactyl/wings",
+  "slug": "/pterodactyl/wings/systemes-pris-en-charge",
+  "permalink": "/pterodactyl/wings/systemes-pris-en-charge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/wings/systemes-pris-en-charge.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wings",
+    "permalink": "/pterodactyl/wings/"
+  },
+  "next": {
+    "title": "Dépendances",
+    "permalink": "/pterodactyl/wings/dependances"
+  }
+}

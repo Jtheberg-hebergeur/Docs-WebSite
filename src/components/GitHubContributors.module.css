@@ -1,0 +1,201 @@
+.container {
+  padding: 2rem 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.header h2 {
+  font-size: 2rem;
+  color: #2d3748;
+  margin-bottom: 0.5rem;
+}
+
+.header p {
+  color: #718096;
+  font-size: 1.1rem;
+}
+
+.contributorsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.contributorCard {
+  background: white;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.contributorCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.avatarContainer {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border: 3px solid #e2e8f0;
+}
+
+.avatar {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.contributorInfo h3 {
+  margin: 0.5rem 0;
+  color: #2d3748;
+  font-size: 1.25rem;
+}
+
+.role {
+  color: #4a5568;
+  font-size: 0.9rem;
+  margin: 0.25rem 0;
+}
+
+.contributions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #4a5568;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+.githubIcon {
+  margin-right: 0.5rem;
+  color: #4a5568;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.paginationButton {
+  background: #f7fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.paginationButton:hover {
+  background: #edf2f7;
+  transform: translateY(-2px);
+}
+
+.footer {
+  margin-top: 2rem;
+}
+
+.githubLink {
+  display: inline-flex;
+  align-items: center;
+  color: #4a5568;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.githubLink:hover {
+  color: #2d3748;
+}
+
+.githubLink svg {
+  margin-right: 0.5rem;
+}
+
+/* Loading state */
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #e2e8f0;
+  border-top: 4px solid #4f46e5;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 1rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Error state */
+.error {
+  color: #e53e3e;
+  padding: 1rem;
+  background: #fff5f5;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+/* No contributors */
+.noContributors {
+  color: #718096;
+  font-style: italic;
+  padding: 2rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .contributorsGrid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+  
+  .header h2 {
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .contributorsGrid {
+    grid-template-columns: 1fr;
+  }
+  
+  .pagination {
+    gap: 0.5rem;
+  }
+  
+  .paginationButton {
+    width: 36px;
+    height: 36px;
+  }
+}

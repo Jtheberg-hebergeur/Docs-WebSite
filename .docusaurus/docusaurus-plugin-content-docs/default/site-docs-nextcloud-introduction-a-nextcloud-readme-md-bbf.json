@@ -1,0 +1,33 @@
+{
+  "id": "nextcloud/introduction-a-nextcloud/README",
+  "title": "Introduction à Nextcloud",
+  "description": "Qu’est-ce que Nextcloud ?",
+  "source": "@site/docs/nextcloud/introduction-a-nextcloud/README.md",
+  "sourceDirName": "nextcloud/introduction-a-nextcloud",
+  "slug": "/nextcloud/introduction-a-nextcloud/",
+  "permalink": "/nextcloud/introduction-a-nextcloud/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/nextcloud/introduction-a-nextcloud/README.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📚 Introduction à Nextcloud",
+    "permalink": "/category/-introduction-à-nextcloud"
+  },
+  "next": {
+    "title": "Prérequis système",
+    "permalink": "/nextcloud/introduction-a-nextcloud/prerequis-systeme"
+  }
+}

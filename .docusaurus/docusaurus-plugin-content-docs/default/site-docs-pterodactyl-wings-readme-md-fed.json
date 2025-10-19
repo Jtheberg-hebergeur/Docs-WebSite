@@ -1,0 +1,33 @@
+{
+  "id": "pterodactyl/wings/README",
+  "title": "Wings",
+  "description": "Wings est le plan de contrôle serveur nouvelle génération de Pterodactyl. Il a été entièrement repensé à partir de zéro à l'aide de Go et des enseignements tirés de notre premier Daemon Nodejs.",
+  "source": "@site/docs/pterodactyl/wings/README.md",
+  "sourceDirName": "pterodactyl/wings",
+  "slug": "/pterodactyl/wings/",
+  "permalink": "/pterodactyl/wings/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/wings/README.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦅 Wings",
+    "permalink": "/category/-wings"
+  },
+  "next": {
+    "title": "Systèmes pris en charge",
+    "permalink": "/pterodactyl/wings/systemes-pris-en-charge"
+  }
+}
