@@ -4,7 +4,7 @@ Documentation et ressources officielles de Jtheberg.cloud - Un projet open sourc
 
 [![License: Jtheberg Community](https://img.shields.io/badge/License-Jtheberg_Community-yellow.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Jtheberg-Cloud/documentation)](https://github.com/Jtheberg-Cloud/documentation/graphs/contributors)
-[![CI/CD](https://github.com/Jtheberg-Cloud/documentation/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Jtheberg-Cloud/documentation/actions/workflows/ci-cd.yml)
+
 
 **Maintenu par la communauté Jtheberg** 👥
 
@@ -27,7 +27,7 @@ Documentation et ressources officielles de Jtheberg.cloud - Un projet open sourc
 ### 2️⃣ Lancer le serveur de développement
 
 ```powershell
-.\test.ps1
+.\dev.ps1
 ```
 
 **Le serveur démarre en 20-30 secondes** (webpack compile tous les fichiers)
@@ -38,40 +38,6 @@ Documentation et ressources officielles de Jtheberg.cloud - Un projet open sourc
 - ✅ Nettoie tout automatiquement
 
 ---
-
-## 🎨 Nouvelles Fonctionnalités
-
-### ✅ Thème Sombre Corrigé
-- Texte de la sidebar maintenant visible en mode sombre
-- Meilleur contraste pour tous les éléments
-
-### ✅ Logo Jtheberg
-- Logo officiel de Jtheberg.cloud intégré
-- Visible dans la navbar
-
-### ✅ Traductions Anglaises
-- Toutes les catégories traduites en anglais
-- Support complet FR/EN
-
-### ✅ Pas de Date de Mise à Jour
-- Pages plus propres
-- Pas de "Dernière mise à jour" en bas des pages
-
----
-
-## 🏭 Test PRODUCTION
-
-**Pour tester la version finale avant Docker :**
-
-```powershell
-.\test-prod.ps1
-```
-
-- 🔨 Compile la documentation
-- 🌐 Lance un serveur de production
-- 🧪 Testez comme en production
-- 🧹 Nettoie tout à la fin
-
 ---
 
 ## 🐳 Build Docker (Production)
@@ -95,7 +61,7 @@ docker build -t jtheberg-docs:latest .
 
 Ou manuellement :
 ```powershell
-docker run -d --name jtheberg-docs -p 80:80 -v "${PWD}/docs:/docs" -v "${PWD}/blog:/blog" jtheberg-docs:latest
+docker run -d --name jtheberg-docs -p 80:80 -v "${PWD}/docs:/docs" jtheberg-docs:latest
 ```
 
 ### 3. Accéder à la documentation
@@ -200,23 +166,6 @@ Les dossiers suivants sont montés en volumes pour permettre les modifications �
 - `blog/` → Articles de blog
 
 **Note :** Après modification, relancez le conteneur pour rebuilder la documentation.
-
-## 🌐 Déploiement en production
-
-L'image contient déjà la documentation buildée. Pour déployer :
-
-```powershell
-# Build
-docker build -t jtheberg-docs:latest .
-
-# Run en production
-docker run -d --name jtheberg-docs -p 80:80 jtheberg-docs:latest
-```
-
-Pour un déploiement sans volumes (documentation figée dans l'image) :
-```powershell
-docker run -d --name jtheberg-docs -p 80:80 jtheberg-docs:latest
-```
 
 ## 📖 Documentation Docusaurus
 
