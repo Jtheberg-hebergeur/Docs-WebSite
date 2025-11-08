@@ -1,18 +1,45 @@
-# 📚 Jtheberg - Projet Communautaire
-
-Documentation et ressources officielles de Jtheberg.cloud - Un projet open source communautaire 🌍
+# 📚 Jtheberg Documentation - Projet Communautaire
 
 [![License: Jtheberg Community](https://img.shields.io/badge/License-Jtheberg_Community-yellow.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/Jtheberg-Cloud/documentation)](https://github.com/Jtheberg-Cloud/documentation/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/Jtheberg-hebergeur/Docs-WebSite)](https://github.com/Jtheberg-hebergeur/Docs-WebSite/graphs/contributors)
+[![Website](https://img.shields.io/badge/Website-jtheberg.cloud-blue)](https://jtheberg.cloud)
 
+Documentation complète et ressources officielles de **Jtheberg.cloud** - Un projet open source communautaire 🌍
 
 **Maintenu par la communauté Jtheberg** 👥
 
 ## 📋 Table des matières
+
+- [À propos](#-à-propos)
+- [Fonctionnalités](#-fonctionnalités)
+- [Démarrage rapide](#-démarrage-rapide)
 - [Contribuer](#-comment-contribuer)
+- [Code de conduite](#-code-de-conduite)
+- [Sécurité](#-sécurité)
 - [Licence](#-licence)
-- [Contributeurs](#-contributeurs)
-- [Développement](#-développement-local)
+- [Support](#-support)
+
+## 🎯 À propos
+
+Ce projet contient la documentation complète pour l'installation, la configuration et l'utilisation de divers services hébergés par Jtheberg.cloud. La documentation couvre :
+
+- 🦖 **Pterodactyl Panel** - Gestionnaire de serveurs de jeux moderne
+- 🦅 **Wings** - Daemon pour Pterodactyl
+- 🎨 **Blueprint** - Extensions pour Pterodactyl
+- 🐳 **Docker** - Conteneurisation d'applications
+- 🔷 **Podman** - Alternative à Docker
+- 🔧 **Plesk** - Panel de gestion d'hébergement web
+- ☁️ **Nextcloud** - Solution de stockage cloud privé
+
+## ✨ Fonctionnalités
+
+- 📖 Documentation complète et à jour
+- 🌍 Interface multilingue (Français)
+- 👥 Système de contributeurs
+- 🎨 Interface moderne et responsive
+- 🔍 Recherche intégrée
+- 📱 Compatible mobile
+- 🚀 Déploiement facile avec Docker
 
 ---
 
@@ -167,6 +194,43 @@ Les dossiers suivants sont montés en volumes pour permettre les modifications �
 
 **Note :** Après modification, relancez le conteneur pour rebuilder la documentation.
 
-## 📖 Documentation Docusaurus
+## 🤝 Comment contribuer
 
-Pour plus d'informations sur Docusaurus : https://docusaurus.io
+Nous accueillons toutes les contributions ! Que vous souhaitiez corriger une faute de frappe, ajouter une nouvelle section ou améliorer la documentation existante, votre aide est la bienvenue.
+
+Consultez notre [Guide de Contribution](CONTRIBUTING.md) pour plus de détails.
+
+### Types de contributions
+
+- ✏️ Corriger des erreurs ou améliorer la clarté
+- ➕ Ajouter de nouvelles sections de documentation
+- 🌐 Améliorer les traductions
+- 🐛 Signaler des bugs
+- 💡 Proposer de nouvelles fonctionnalités
+
+## 📜 Code de conduite
+
+Ce projet adhère à un [Code de Conduite](CODE_OF_CONDUCT.md). En participant, vous êtes tenu de maintenir ce code.
+
+## 🔒 Sécurité
+
+Si vous découvrez une vulnérabilité de sécurité, veuillez consulter notre [Politique de Sécurité](SECURITY.md) pour savoir comment la signaler.
+
+## 📄 Licence
+
+Ce projet est sous licence [Jtheberg Community License](LICENSE).
+
+## 💬 Support
+
+- 📧 **Email** : support@jtheberg.cloud
+- 🌐 **Site web** : [jtheberg.cloud](https://jtheberg.cloud)
+- 💬 **Discord** : Rejoignez notre communauté
+- 🐛 **Issues** : [GitHub Issues](https://github.com/Jtheberg-hebergeur/Docs-WebSite/issues)
+
+## 🙏 Remerciements
+
+Merci à tous les [contributeurs](https://github.com/Jtheberg-hebergeur/Docs-WebSite/graphs/contributors) qui rendent ce projet possible !
+
+---
+
+**Fait avec ❤️ par la communauté Jtheberg**
