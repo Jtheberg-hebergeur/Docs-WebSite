@@ -49,15 +49,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '074'),
+    component: ComponentCreator('/', '827'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'fe3'),
+        component: ComponentCreator('/', '026'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '4ad'),
+            component: ComponentCreator('/', '78e'),
             routes: [
               {
                 path: '/category/-blueprint',
@@ -128,12 +128,6 @@ export default [
               {
                 path: '/docker/quest-ce-que-docker',
                 component: ComponentCreator('/docker/quest-ce-que-docker', '98b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/intro',
-                component: ComponentCreator('/intro', '9fa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -272,6 +266,12 @@ export default [
               {
                 path: '/pterodactyl/wings/systemes-pris-en-charge',
                 component: ComponentCreator('/pterodactyl/wings/systemes-pris-en-charge', '6fe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/',
+                component: ComponentCreator('/', 'fc9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

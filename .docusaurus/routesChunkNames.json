@@ -56,17 +56,17 @@
     },
     "config": "config---contributeurs-5-e-9-e61"
   },
-  "/-074": {
+  "/-827": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-fe3": {
+  "/-026": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-4ad": {
+  "/-78e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/category/-blueprint-07a": {
@@ -116,10 +116,6 @@
   "/docker/quest-ce-que-docker-98b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docker-quest-ce-que-dockerd-03-285"
-  },
-  "/intro-9fa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intro-0-e-3-7b8"
   },
   "/nextcloud/introduction-a-nextcloud-02c": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -212,5 +208,9 @@
   "/pterodactyl/wings/systemes-pris-en-charge-6fe": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---pterodactyl-wings-systemes-pris-en-charge-370-3ec"
+  },
+  "/-fc9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---0-e-3-279"
   }
 }

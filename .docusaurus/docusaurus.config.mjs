@@ -85,7 +85,9 @@ export default {
       "title": "Jtheberg",
       "logo": {
         "alt": "Jtheberg Logo",
-        "src": "https://jtheberg.cloud/assets/images/logo.png"
+        "src": "https://jtheberg.cloud/assets/images/logo.png",
+        "href": "https://jtheberg.cloud",
+        "target": "_self"
       },
       "hideOnScroll": false,
       "items": [
@@ -120,19 +122,19 @@ export default {
           "items": [
             {
               "label": "Introduction",
-              "to": "/docs/intro"
+              "to": "/intro"
             },
             {
               "label": "Pterodactyl",
-              "to": "/docs/pterodactyl/installer-pterodactyl"
+              "to": "/pterodactyl/installer-pterodactyl"
             },
             {
               "label": "Docker",
-              "to": "/docs/docker/quest-ce-que-docker"
+              "to": "/docker/quest-ce-que-docker"
             },
             {
               "label": "Plesk",
-              "to": "/docs/plesk/installer-plesk"
+              "to": "/plesk/installer-plesk"
             }
           ]
         },
