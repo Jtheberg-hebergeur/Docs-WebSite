@@ -1,0 +1,208 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "docker/docker-compose",
+              "path": "/docker/docker-compose",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker/docker-engine",
+              "path": "/docker/docker-engine",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker/quest-ce-que-docker",
+              "path": "/docker/quest-ce-que-docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextcloud/introduction-a-nextcloud/guide-dinstallation",
+              "path": "/nextcloud/introduction-a-nextcloud/guide-dinstallation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextcloud/introduction-a-nextcloud/prerequis-systeme",
+              "path": "/nextcloud/introduction-a-nextcloud/prerequis-systeme",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextcloud/introduction-a-nextcloud/README",
+              "path": "/nextcloud/introduction-a-nextcloud/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "plesk/installer-plesk",
+              "path": "/plesk/installer-plesk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "podman/installer-podman",
+              "path": "/podman/installer-podman",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint",
+              "path": "/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/blueprint/README",
+              "path": "/pterodactyl/blueprint/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/installer-pterodactyl/choisir-un-systeme-dexploitation-serveur",
+              "path": "/pterodactyl/installer-pterodactyl/choisir-un-systeme-dexploitation-serveur",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/installer-pterodactyl/configuration-de-lenvironnement",
+              "path": "/pterodactyl/installer-pterodactyl/configuration-de-lenvironnement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/installer-pterodactyl/configuration-du-serveur-web",
+              "path": "/pterodactyl/installer-pterodactyl/configuration-du-serveur-web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/installer-pterodactyl/dependances",
+              "path": "/pterodactyl/installer-pterodactyl/dependances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/installer-pterodactyl/installation",
+              "path": "/pterodactyl/installer-pterodactyl/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/installer-pterodactyl/README",
+              "path": "/pterodactyl/installer-pterodactyl/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/installer-pterodactyl/telecharger-des-fichiers",
+              "path": "/pterodactyl/installer-pterodactyl/telecharger-des-fichiers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/mise-a-jour-de-pterodactyl",
+              "path": "/pterodactyl/mise-a-jour-de-pterodactyl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/wings/allocations-de-nodes",
+              "path": "/pterodactyl/wings/allocations-de-nodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/wings/configure",
+              "path": "/pterodactyl/wings/configure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/wings/demarre-wings",
+              "path": "/pterodactyl/wings/demarre-wings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/wings/dependances",
+              "path": "/pterodactyl/wings/dependances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/wings/installing-wings",
+              "path": "/pterodactyl/wings/installing-wings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/wings/mise-a-jour-de-wings",
+              "path": "/pterodactyl/wings/mise-a-jour-de-wings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/wings/README",
+              "path": "/pterodactyl/wings/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pterodactyl/wings/systemes-pris-en-charge",
+              "path": "/pterodactyl/wings/systemes-pris-en-charge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-pterodactyl",
+              "path": "/category/-pterodactyl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-installer-pterodactyl",
+              "path": "/category/-installer-pterodactyl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-wings",
+              "path": "/category/-wings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-blueprint",
+              "path": "/category/-blueprint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-plesk",
+              "path": "/category/-plesk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-docker",
+              "path": "/category/-docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-podman",
+              "path": "/category/-podman",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/️-nextcloud",
+              "path": "/category/️-nextcloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-introduction-à-nextcloud",
+              "path": "/category/-introduction-à-nextcloud",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

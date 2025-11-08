@@ -1,0 +1,8 @@
+{
+  "label": "🐳 Docker",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Apprenez à utiliser Docker pour conteneuriser vos applications"
+  }
+}
