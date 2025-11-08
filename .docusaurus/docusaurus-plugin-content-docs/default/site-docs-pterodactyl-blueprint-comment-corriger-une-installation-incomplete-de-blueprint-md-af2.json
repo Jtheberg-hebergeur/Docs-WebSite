@@ -11,8 +11,6 @@
   "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055000,
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2,
@@ -27,7 +25,7 @@
     "permalink": "/pterodactyl/blueprint/"
   },
   "next": {
-    "title": "Mise a jour de Pterodactyl",
+    "title": "Mise à jour de Pterodactyl",
     "permalink": "/pterodactyl/mise-a-jour-de-pterodactyl"
   }
 }

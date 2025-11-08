@@ -41,21 +41,15 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl: 'https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/',
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
-          routeBasePath: '/',
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: false,
+          routeBasePath: '/', // Utilise la racine pour la documentation
           breadcrumbs: true,
           beforeDefaultRemarkPlugins: [],
           remarkPlugins: [],
           rehypePlugins: [],
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-        },
+        blog: false, // Désactive le blog
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -66,6 +60,20 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // Redirection automatique vers la documentation
+      onBrokenLinks: 'throw',
+      onBrokenMarkdownLinks: 'warn',
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
+      },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Jtheberg',

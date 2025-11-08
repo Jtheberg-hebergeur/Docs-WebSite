@@ -1,7 +1,7 @@
 {
   "id": "pterodactyl/mise-a-jour-de-pterodactyl",
-  "title": "Mise a jour de Pterodactyl",
-  "description": "Pour mètre a jour Pterodactyl il faux éxécuté cette commande dans votre terminal",
+  "title": "Mise à jour de Pterodactyl",
+  "description": "Pour mettre à jour Pterodactyl, exécutez cette commande dans votre terminal :",
   "source": "@site/docs/pterodactyl/mise-a-jour-de-pterodactyl.md",
   "sourceDirName": "pterodactyl",
   "slug": "/pterodactyl/mise-a-jour-de-pterodactyl",
@@ -11,13 +11,11 @@
   "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/mise-a-jour-de-pterodactyl.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055000,
   "sidebarPosition": 10,
   "frontMatter": {
     "sidebar_position": 10,
     "author": "Kiz___",
-    "author_title": "President de Jtheberg.cloud",
+    "author_title": "Président de Jtheberg.cloud",
     "author_url": "https://github.com/KizYTB",
     "author_image_url": "https://github.com/KizYTB.png"
   },

@@ -1,7 +1,6 @@
 export default {
   "__comp---site-src-pages-contributeurs-js-40-a-ffc": [() => import(/* webpackChunkName: "__comp---site-src-pages-contributeurs-js-40-a-ffc" */ "@site/src/pages/contributeurs.js"), "@site/src/pages/contributeurs.js", require.resolveWeak("@site/src/pages/contributeurs.js")],
   "__comp---site-src-pages-contributors-js-857-cb8": [() => import(/* webpackChunkName: "__comp---site-src-pages-contributors-js-857-cb8" */ "@site/src/pages/contributors.js"), "@site/src/pages/contributors.js", require.resolveWeak("@site/src/pages/contributors.js")],
-  "__comp---site-src-pages-index-jsc-4-f-f99": [() => import(/* webpackChunkName: "__comp---site-src-pages-index-jsc-4-f-f99" */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
   "__comp---theme-debug-config-23-a-2ff": [() => import(/* webpackChunkName: "__comp---theme-debug-config-23-a-2ff" */ "@theme/DebugConfig"), "@theme/DebugConfig", require.resolveWeak("@theme/DebugConfig")],
   "__comp---theme-debug-contentba-8-ce7": [() => import(/* webpackChunkName: "__comp---theme-debug-contentba-8-ce7" */ "@theme/DebugContent"), "@theme/DebugContent", require.resolveWeak("@theme/DebugContent")],
   "__comp---theme-debug-global-dataede-0fa": [() => import(/* webpackChunkName: "__comp---theme-debug-global-dataede-0fa" */ "@theme/DebugGlobalData"), "@theme/DebugGlobalData", require.resolveWeak("@theme/DebugGlobalData")],

@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "👋 Bienvenue",
-  "description": "Maintenu par Kiz___ - President de Jtheberg.cloud 🎯",
+  "description": "📖 À propos de cette documentation",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -11,11 +11,13 @@
   "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/intro.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055000,
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "author": "Kiz___",
+    "author_title": "Président de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
   },
   "sidebar": "tutorialSidebar",
   "next": {

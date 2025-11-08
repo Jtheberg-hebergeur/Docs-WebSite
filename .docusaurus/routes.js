@@ -49,20 +49,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2e1'),
-    exact: true
-  },
-  {
-    path: '/',
-    component: ComponentCreator('/', 'cd6'),
+    component: ComponentCreator('/', '074'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '495'),
+        component: ComponentCreator('/', 'fe3'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'cff'),
+            component: ComponentCreator('/', '4ad'),
             routes: [
               {
                 path: '/category/-blueprint',
@@ -120,163 +115,163 @@ export default [
               },
               {
                 path: '/docker/docker-compose',
-                component: ComponentCreator('/docker/docker-compose', '765'),
+                component: ComponentCreator('/docker/docker-compose', 'ea5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docker/docker-engine',
-                component: ComponentCreator('/docker/docker-engine', 'b2d'),
+                component: ComponentCreator('/docker/docker-engine', 'e37'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docker/quest-ce-que-docker',
-                component: ComponentCreator('/docker/quest-ce-que-docker', '223'),
+                component: ComponentCreator('/docker/quest-ce-que-docker', '98b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/intro',
-                component: ComponentCreator('/intro', '072'),
+                component: ComponentCreator('/intro', '9fa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/nextcloud/introduction-a-nextcloud',
-                component: ComponentCreator('/nextcloud/introduction-a-nextcloud', 'db1'),
+                component: ComponentCreator('/nextcloud/introduction-a-nextcloud', '02c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/nextcloud/introduction-a-nextcloud/guide-dinstallation',
-                component: ComponentCreator('/nextcloud/introduction-a-nextcloud/guide-dinstallation', '3c5'),
+                component: ComponentCreator('/nextcloud/introduction-a-nextcloud/guide-dinstallation', 'e1c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/nextcloud/introduction-a-nextcloud/prerequis-systeme',
-                component: ComponentCreator('/nextcloud/introduction-a-nextcloud/prerequis-systeme', '0d0'),
+                component: ComponentCreator('/nextcloud/introduction-a-nextcloud/prerequis-systeme', 'd9f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plesk/installer-plesk',
-                component: ComponentCreator('/plesk/installer-plesk', 'db3'),
+                component: ComponentCreator('/plesk/installer-plesk', '423'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/podman/installer-podman',
-                component: ComponentCreator('/podman/installer-podman', '20c'),
+                component: ComponentCreator('/podman/installer-podman', '1d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/blueprint',
-                component: ComponentCreator('/pterodactyl/blueprint', '099'),
+                component: ComponentCreator('/pterodactyl/blueprint', '235'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint',
-                component: ComponentCreator('/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint', '7c7'),
+                component: ComponentCreator('/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint', '23f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/installer-pterodactyl',
-                component: ComponentCreator('/pterodactyl/installer-pterodactyl', '09f'),
+                component: ComponentCreator('/pterodactyl/installer-pterodactyl', '875'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/installer-pterodactyl/choisir-un-systeme-dexploitation-serveur',
-                component: ComponentCreator('/pterodactyl/installer-pterodactyl/choisir-un-systeme-dexploitation-serveur', 'f7f'),
+                component: ComponentCreator('/pterodactyl/installer-pterodactyl/choisir-un-systeme-dexploitation-serveur', 'fb3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/installer-pterodactyl/configuration-de-lenvironnement',
-                component: ComponentCreator('/pterodactyl/installer-pterodactyl/configuration-de-lenvironnement', 'e35'),
+                component: ComponentCreator('/pterodactyl/installer-pterodactyl/configuration-de-lenvironnement', '565'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/installer-pterodactyl/configuration-du-serveur-web',
-                component: ComponentCreator('/pterodactyl/installer-pterodactyl/configuration-du-serveur-web', '403'),
+                component: ComponentCreator('/pterodactyl/installer-pterodactyl/configuration-du-serveur-web', 'de9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/installer-pterodactyl/dependances',
-                component: ComponentCreator('/pterodactyl/installer-pterodactyl/dependances', '199'),
+                component: ComponentCreator('/pterodactyl/installer-pterodactyl/dependances', '134'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/installer-pterodactyl/installation',
-                component: ComponentCreator('/pterodactyl/installer-pterodactyl/installation', 'bd1'),
+                component: ComponentCreator('/pterodactyl/installer-pterodactyl/installation', 'e98'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/installer-pterodactyl/telecharger-des-fichiers',
-                component: ComponentCreator('/pterodactyl/installer-pterodactyl/telecharger-des-fichiers', 'e64'),
+                component: ComponentCreator('/pterodactyl/installer-pterodactyl/telecharger-des-fichiers', '92c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/mise-a-jour-de-pterodactyl',
-                component: ComponentCreator('/pterodactyl/mise-a-jour-de-pterodactyl', '39b'),
+                component: ComponentCreator('/pterodactyl/mise-a-jour-de-pterodactyl', 'c76'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/wings',
-                component: ComponentCreator('/pterodactyl/wings', 'a9d'),
+                component: ComponentCreator('/pterodactyl/wings', '73a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/wings/allocations-de-nodes',
-                component: ComponentCreator('/pterodactyl/wings/allocations-de-nodes', '3e5'),
+                component: ComponentCreator('/pterodactyl/wings/allocations-de-nodes', '000'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/wings/configure',
-                component: ComponentCreator('/pterodactyl/wings/configure', '1f6'),
+                component: ComponentCreator('/pterodactyl/wings/configure', 'b14'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/wings/demarre-wings',
-                component: ComponentCreator('/pterodactyl/wings/demarre-wings', 'fc7'),
+                component: ComponentCreator('/pterodactyl/wings/demarre-wings', 'b7a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/wings/dependances',
-                component: ComponentCreator('/pterodactyl/wings/dependances', '457'),
+                component: ComponentCreator('/pterodactyl/wings/dependances', '485'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/wings/installing-wings',
-                component: ComponentCreator('/pterodactyl/wings/installing-wings', '455'),
+                component: ComponentCreator('/pterodactyl/wings/installing-wings', '48e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/wings/mise-a-jour-de-wings',
-                component: ComponentCreator('/pterodactyl/wings/mise-a-jour-de-wings', '089'),
+                component: ComponentCreator('/pterodactyl/wings/mise-a-jour-de-wings', '6ac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/pterodactyl/wings/systemes-pris-en-charge',
-                component: ComponentCreator('/pterodactyl/wings/systemes-pris-en-charge', '8c5'),
+                component: ComponentCreator('/pterodactyl/wings/systemes-pris-en-charge', '6fe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

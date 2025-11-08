@@ -6,9 +6,9 @@ import TagsListInline from '@theme/TagsListInline';
 import EditMetaRow from '@theme/EditMetaRow';
 export default function DocItemFooter() {
   const {metadata} = useDoc();
-  const {editUrl, lastUpdatedAt, lastUpdatedBy, tags} = metadata;
+  const {editUrl, tags} = metadata;
   const canDisplayTagsRow = tags.length > 0;
-  const canDisplayEditMetaRow = !!(editUrl || lastUpdatedAt || lastUpdatedBy);
+  const canDisplayEditMetaRow = !!editUrl;
   const canDisplayFooter = canDisplayTagsRow || canDisplayEditMetaRow;
   if (!canDisplayFooter) {
     return null;
@@ -34,8 +34,8 @@ export default function DocItemFooter() {
             ThemeClassNames.docs.docFooterEditMetaRow,
           )}
           editUrl={editUrl}
-          lastUpdatedAt={lastUpdatedAt}
-          lastUpdatedBy={lastUpdatedBy}
+          lastUpdatedAt={null}
+          lastUpdatedBy={null}
         />
       )}
     </footer>

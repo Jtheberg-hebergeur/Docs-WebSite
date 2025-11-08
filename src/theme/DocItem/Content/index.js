@@ -4,6 +4,7 @@ import {ThemeClassNames} from '@docusaurus/theme-common';
 import {useDoc} from '@docusaurus/plugin-content-docs/client';
 import Heading from '@theme/Heading';
 import MDXContent from '@theme/MDXContent';
+import DocAuthor from '@site/src/components/DocAuthor';
 /**
  Title can be declared inside md content or declared through
  front matter and added manually. To make both cases consistent,
@@ -32,6 +33,7 @@ export default function DocItemContent({children}) {
           <Heading as="h1">{syntheticTitle}</Heading>
         </header>
       )}
+      <DocAuthor />
       <MDXContent>{children}</MDXContent>
     </div>
   );

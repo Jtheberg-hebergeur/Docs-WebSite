@@ -1,10 +1,12 @@
 ---
 sidebar_position: 1
+author: Kiz___
+author_title: Président de Jtheberg.cloud
+author_url: https://github.com/KizYTB
+author_image_url: https://github.com/KizYTB.png
 ---
 
 # 👋 Bienvenue
-
-**Maintenu par [Kiz___](https://github.com/KizYTB) - President de Jtheberg.cloud** 🎯
 
 ## 📖 À propos de cette documentation
 

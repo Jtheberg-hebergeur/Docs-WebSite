@@ -50,24 +50,15 @@ export default {
         "docs": {
           "sidebarPath": "./sidebars.js",
           "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/",
-          "showLastUpdateAuthor": true,
-          "showLastUpdateTime": true,
+          "showLastUpdateAuthor": false,
+          "showLastUpdateTime": false,
           "routeBasePath": "/",
           "breadcrumbs": true,
           "beforeDefaultRemarkPlugins": [],
           "remarkPlugins": [],
           "rehypePlugins": []
         },
-        "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          }
-        },
+        "blog": false,
         "theme": {
           "customCss": "./src/css/custom.css"
         }
@@ -75,6 +66,20 @@ export default {
     ]
   ],
   "themeConfig": {
+    "onBrokenLinks": "throw",
+    "onBrokenMarkdownLinks": "warn",
+    "docs": {
+      "sidebar": {
+        "hideable": false,
+        "autoCollapseCategories": false
+      },
+      "versionPersistence": "localStorage"
+    },
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": false,
+      "respectPrefersColorScheme": true
+    },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "Jtheberg",
@@ -455,18 +460,6 @@ export default {
           "line": "This will error"
         }
       ]
-    },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": true
-    },
-    "docs": {
-      "sidebar": {
-        "hideable": false,
-        "autoCollapseCategories": false
-      },
-      "versionPersistence": "localStorage"
     },
     "tableOfContents": {
       "minHeadingLevel": 2,
