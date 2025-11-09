@@ -1,0 +1,31 @@
+{
+  "id": "pterodactyl/wings/mise-a-jour-de-wings",
+  "title": "Mise a jour de Wings",
+  "description": "Télécharger le fichier binaire mis à jour",
+  "source": "@site/docs/pterodactyl/wings/mise-a-jour-de-wings.md",
+  "sourceDirName": "pterodactyl/wings",
+  "slug": "/pterodactyl/wings/mise-a-jour-de-wings",
+  "permalink": "/pterodactyl/wings/mise-a-jour-de-wings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/wings/mise-a-jour-de-wings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Démarré Wings",
+    "permalink": "/pterodactyl/wings/demarre-wings"
+  },
+  "next": {
+    "title": "🎨 Blueprint",
+    "permalink": "/category/-blueprint"
+  }
+}

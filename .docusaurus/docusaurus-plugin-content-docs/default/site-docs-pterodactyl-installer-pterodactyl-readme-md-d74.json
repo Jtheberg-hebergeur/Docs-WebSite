@@ -1,0 +1,31 @@
+{
+  "id": "pterodactyl/installer-pterodactyl/README",
+  "title": "Installer Pterodactyl",
+  "description": "Pterodactyl Panel est conçu pour fonctionner sur votre propre serveur Web. Vous devrez avoir un accès root à votre serveur pour exécuter et utiliser ce panneau.",
+  "source": "@site/docs/pterodactyl/installer-pterodactyl/README.md",
+  "sourceDirName": "pterodactyl/installer-pterodactyl",
+  "slug": "/pterodactyl/installer-pterodactyl/",
+  "permalink": "/pterodactyl/installer-pterodactyl/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/installer-pterodactyl/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Installer Pterodactyl",
+    "permalink": "/category/-installer-pterodactyl"
+  },
+  "next": {
+    "title": "Choisir un système d'exploitation serveur",
+    "permalink": "/pterodactyl/installer-pterodactyl/choisir-un-systeme-dexploitation-serveur"
+  }
+}

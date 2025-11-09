@@ -1,0 +1,31 @@
+{
+  "id": "podman/installer-podman",
+  "title": "🔷 Installer Podman",
+  "description": "Podman est une alternative à Docker sans daemon, plus sécurisée et compatible avec les conteneurs Docker. 🚀",
+  "source": "@site/docs/podman/installer-podman.md",
+  "sourceDirName": "podman",
+  "slug": "/podman/installer-podman",
+  "permalink": "/podman/installer-podman",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/podman/installer-podman.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔷 Podman",
+    "permalink": "/category/-podman"
+  },
+  "next": {
+    "title": "☁️ Nextcloud",
+    "permalink": "/category/️-nextcloud"
+  }
+}

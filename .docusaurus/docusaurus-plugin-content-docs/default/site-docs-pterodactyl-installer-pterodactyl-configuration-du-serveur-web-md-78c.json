@@ -1,0 +1,31 @@
+{
+  "id": "pterodactyl/installer-pterodactyl/configuration-du-serveur-web",
+  "title": "Configuration du serveur Web",
+  "description": "Nginx avec SSL",
+  "source": "@site/docs/pterodactyl/installer-pterodactyl/configuration-du-serveur-web.md",
+  "sourceDirName": "pterodactyl/installer-pterodactyl",
+  "slug": "/pterodactyl/installer-pterodactyl/configuration-du-serveur-web",
+  "permalink": "/pterodactyl/installer-pterodactyl/configuration-du-serveur-web",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/installer-pterodactyl/configuration-du-serveur-web.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration de l'environnement",
+    "permalink": "/pterodactyl/installer-pterodactyl/configuration-de-lenvironnement"
+  },
+  "next": {
+    "title": "🦅 Wings",
+    "permalink": "/category/-wings"
+  }
+}

@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Support Communautaire
+    url: https://discord.jtheberg.cloud
+    about: Rejoignez notre serveur Discord pour obtenir de l'aide
+  - name: 📧 Contact Email
+    url: mailto:support@jtheberg.cloud
+    about: Contactez-nous par email pour des questions générales
+  - name: 🌐 Site Web
+    url: https://jtheberg.cloud
+    about: Visitez notre site web officiel
+

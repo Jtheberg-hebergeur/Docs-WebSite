@@ -1,0 +1,31 @@
+{
+  "id": "pterodactyl/wings/configure",
+  "title": "Configure",
+  "description": "Une fois que vous avez installé Wings et les composants requis, l'étape suivante consiste à créer un nœud sur votre panneau installé. Accédez à la vue administrative de votre panneau, sélectionnez Nœuds dans la barre latérale, puis cliquez sur le bouton Créer nouveau à droite.",
+  "source": "@site/docs/pterodactyl/wings/configure.md",
+  "sourceDirName": "pterodactyl/wings",
+  "slug": "/pterodactyl/wings/configure",
+  "permalink": "/pterodactyl/wings/configure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/wings/configure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installing Wings",
+    "permalink": "/pterodactyl/wings/installing-wings"
+  },
+  "next": {
+    "title": "Allocations de nodes",
+    "permalink": "/pterodactyl/wings/allocations-de-nodes"
+  }
+}

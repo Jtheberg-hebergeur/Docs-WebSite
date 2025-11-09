@@ -1,0 +1,31 @@
+{
+  "id": "pterodactyl/wings/allocations-de-nodes",
+  "title": "Allocations de nodes",
+  "description": "L'allocation est une combinaison d'adresse IP et de port que vous pouvez attribuer à un serveur. Chaque serveur créé doit avoir au moins une allocation. L'allocation correspond à l'adresse IP de votre interface réseau. Dans certains cas, par exemple derrière un NAT, il s'agit de l'adresse IP interne. Pour créer de nouvelles allocations, accédez à Nodes > votre Node > Allocation.",
+  "source": "@site/docs/pterodactyl/wings/allocations-de-nodes.md",
+  "sourceDirName": "pterodactyl/wings",
+  "slug": "/pterodactyl/wings/allocations-de-nodes",
+  "permalink": "/pterodactyl/wings/allocations-de-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/wings/allocations-de-nodes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configure",
+    "permalink": "/pterodactyl/wings/configure"
+  },
+  "next": {
+    "title": "Démarré Wings",
+    "permalink": "/pterodactyl/wings/demarre-wings"
+  }
+}

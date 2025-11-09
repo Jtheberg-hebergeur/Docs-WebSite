@@ -1,0 +1,31 @@
+{
+  "id": "pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint",
+  "title": "Comment corriger une installation incomplète de Blueprint",
+  "description": "Taper cette commande dans votre terminal.",
+  "source": "@site/docs/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint.md",
+  "sourceDirName": "pterodactyl/blueprint",
+  "slug": "/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint",
+  "permalink": "/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Blueprint",
+    "permalink": "/pterodactyl/blueprint/"
+  },
+  "next": {
+    "title": "Mise à jour de Pterodactyl",
+    "permalink": "/pterodactyl/mise-a-jour-de-pterodactyl"
+  }
+}

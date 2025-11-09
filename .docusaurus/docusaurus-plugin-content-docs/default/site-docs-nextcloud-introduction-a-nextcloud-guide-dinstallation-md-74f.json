@@ -1,0 +1,27 @@
+{
+  "id": "nextcloud/introduction-a-nextcloud/guide-dinstallation",
+  "title": "Guide d'Installation",
+  "description": "Ce guide se concentre sur une installation manuelle sur Debian 12 ou Ubuntu 22.04 avec Apache, PHP, et MariaDB. Adaptez selon votre environnement.",
+  "source": "@site/docs/nextcloud/introduction-a-nextcloud/guide-dinstallation.md",
+  "sourceDirName": "nextcloud/introduction-a-nextcloud",
+  "slug": "/nextcloud/introduction-a-nextcloud/guide-dinstallation",
+  "permalink": "/nextcloud/introduction-a-nextcloud/guide-dinstallation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/nextcloud/introduction-a-nextcloud/guide-dinstallation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prérequis système",
+    "permalink": "/nextcloud/introduction-a-nextcloud/prerequis-systeme"
+  }
+}

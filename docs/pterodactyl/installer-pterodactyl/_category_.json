@@ -1,0 +1,8 @@
+{
+  "label": "📦 Installer Pterodactyl",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Guide d'installation complet de Pterodactyl Panel"
+  }
+}

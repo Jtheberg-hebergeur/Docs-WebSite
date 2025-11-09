@@ -1,0 +1,8 @@
+{
+  "label": "🔷 Podman",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Alternative à Docker sans daemon et plus sécurisée"
+  }
+}

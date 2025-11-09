@@ -1,0 +1,28 @@
+{
+  "id": "intro",
+  "title": "🚀 Bienvenue sur Jtheberg.cloud",
+  "description": "Votre partenaire de confiance pour l'hébergement haute performance 🌟",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/",
+    "author": "Kiz___",
+    "author_title": "Président de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "🦖 Pterodactyl",
+    "permalink": "/category/-pterodactyl"
+  }
+}

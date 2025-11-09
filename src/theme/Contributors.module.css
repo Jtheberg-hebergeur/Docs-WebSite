@@ -1,0 +1,33 @@
+.contributors {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-600);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.credit {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.creditItem {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.creditItem i {
+  color: var(--ifm-color-primary);
+}
+
+@media (max-width: 768px) {
+  .credit {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}

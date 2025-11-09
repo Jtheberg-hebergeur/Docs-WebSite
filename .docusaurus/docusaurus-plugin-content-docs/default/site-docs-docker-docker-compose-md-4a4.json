@@ -1,0 +1,32 @@
+{
+  "id": "docker/docker-compose",
+  "title": "Docker Compose",
+  "description": "Cette page contient des instructions sur la façon d'installer Docker Compose. 🐳",
+  "source": "@site/docs/docker/docker-compose.md",
+  "sourceDirName": "docker",
+  "slug": "/docker/docker-compose",
+  "permalink": "/docker/docker-compose",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/docker/docker-compose.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Docker Compose",
+    "sidebar_position": 2,
+    "author": "Kiz___",
+    "author_title": "President de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Qu'est-ce que Docker ?",
+    "permalink": "/docker/quest-ce-que-docker"
+  },
+  "next": {
+    "title": "Docker Engine",
+    "permalink": "/docker/docker-engine"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pterodactyl/mise-a-jour-de-pterodactyl",
+  "title": "Mise à jour de Pterodactyl",
+  "description": "Pour mettre à jour Pterodactyl, exécutez cette commande dans votre terminal :",
+  "source": "@site/docs/pterodactyl/mise-a-jour-de-pterodactyl.md",
+  "sourceDirName": "pterodactyl",
+  "slug": "/pterodactyl/mise-a-jour-de-pterodactyl",
+  "permalink": "/pterodactyl/mise-a-jour-de-pterodactyl",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/pterodactyl/mise-a-jour-de-pterodactyl.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "author": "Kiz___",
+    "author_title": "Président de Jtheberg.cloud",
+    "author_url": "https://github.com/KizYTB",
+    "author_image_url": "https://github.com/KizYTB.png"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comment corriger une installation incomplète de Blueprint",
+    "permalink": "/pterodactyl/blueprint/comment-corriger-une-installation-incomplete-de-blueprint"
+  },
+  "next": {
+    "title": "🔧 Plesk",
+    "permalink": "/category/-plesk"
+  }
+}
