@@ -56,17 +56,17 @@
     },
     "config": "config---contributeurs-5-e-9-e61"
   },
-  "/-827": {
+  "/-410": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-026": {
+  "/-06e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-78e": {
+  "/-a6a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/category/-blueprint-07a": {
@@ -85,9 +85,21 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---category-introduction-a-nextcloud-1-c-7-729"
   },
+  "/category/-netic-562": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---category-netice-2-f-bf4"
+  },
   "/category/️-nextcloud-5d9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---category-️-nextcloud-3-f-2-c70"
+  },
+  "/category/-package-npm-372": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---category-package-npmee-1-ad5"
+  },
+  "/category/-packages-sdk-08f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---category-packages-sdka-03-117"
   },
   "/category/-plesk-7f6": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -105,6 +117,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---category-wings-67-c-417"
   },
+  "/category/plugin-minecraft-c6b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---category-plugin-minecraft-43-e-134"
+  },
   "/docker/docker-compose-ea5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docker-docker-compose-4-a-4-09b"
@@ -116,6 +132,50 @@
   "/docker/quest-ce-que-docker-98b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docker-quest-ce-que-dockerd-03-285"
+  },
+  "/netic/api-e66": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-api-1-c-2-1e3"
+  },
+  "/netic/introduction-0bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-introduction-43-e-695"
+  },
+  "/netic/packages/npm-ad8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-packages-npmd-70-1ac"
+  },
+  "/netic/packages/npm/installation-9f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-packages-npm-installation-1-c-9-01d"
+  },
+  "/netic/plugin/administration-281": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-plugin-administrationf-89-384"
+  },
+  "/netic/plugin/api-developpeurs-920": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-plugin-api-developpeurs-32-b-c4e"
+  },
+  "/netic/plugin/configuration-159": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-plugin-configurationd-4-d-68c"
+  },
+  "/netic/plugin/depannage-e80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-plugin-depannage-26-e-9b3"
+  },
+  "/netic/plugin/installation-825": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-plugin-installation-3-fb-63b"
+  },
+  "/netic/plugin/introduction-a42": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-plugin-introduction-7-f-7-78c"
+  },
+  "/netic/plugin/utilisation-joueurs-8f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---netic-plugin-utilisation-joueurs-6-e-1-fc0"
   },
   "/nextcloud/introduction-a-nextcloud-02c": {
     "__comp": "__comp---theme-doc-item-178-a40",

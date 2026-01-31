@@ -23,5 +23,9 @@
   "previous": {
     "title": "Prérequis système",
     "permalink": "/nextcloud/introduction-a-nextcloud/prerequis-systeme"
+  },
+  "next": {
+    "title": "🤖 Netic",
+    "permalink": "/category/-netic"
   }
 }

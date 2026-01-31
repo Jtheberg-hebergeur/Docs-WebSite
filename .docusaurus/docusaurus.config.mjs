@@ -190,7 +190,7 @@ export default {
           ]
         }
       ],
-      "copyright": "\n          <div style=\"margin-top: 2rem; padding-top: 2rem; border-top: 1px solid rgba(255,255,255,0.1);\">\n            <p style=\"margin-bottom: 0.5rem;\">🚀 <strong>Jtheberg</strong> - Hébergeur Web Professionnel</p>\n            <p style=\"margin-bottom: 0.5rem;\">Copyright © 2025 Jtheberg.cloud - Maintenu avec ❤️ par <a href=\"https://github.com/KizYTB\" target=\"_blank\" rel=\"noopener noreferrer\">Kiz___</a></p>\n            <p style=\"font-size: 0.9rem; opacity: 0.8;\">🔒 Sécurité | ⚡ Performance | 📞 Support 24/7</p>\n          </div>\n        "
+      "copyright": "\n          <div style=\"margin-top: 2rem; padding-top: 2rem; border-top: 1px solid rgba(255,255,255,0.1);\">\n            <p style=\"margin-bottom: 0.5rem;\">🚀 <strong>Jtheberg</strong> - Hébergeur Web Professionnel</p>\n            <p style=\"margin-bottom: 0.5rem;\">Copyright © 2026 Jtheberg.cloud - Maintenu avec ❤️ par <a href=\"https://github.com/KizYTB\" target=\"_blank\" rel=\"noopener noreferrer\">Kiz___</a></p>\n            <p style=\"font-size: 0.9rem; opacity: 0.8;\">🔒 Sécurité | ⚡ Performance | 📞 Support 24/7</p>\n          </div>\n        "
     },
     "prism": {
       "theme": {

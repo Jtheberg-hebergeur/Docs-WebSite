@@ -49,15 +49,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '827'),
+    component: ComponentCreator('/', '410'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '026'),
+        component: ComponentCreator('/', '06e'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '78e'),
+            component: ComponentCreator('/', 'a6a'),
             routes: [
               {
                 path: '/category/-blueprint',
@@ -84,8 +84,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/category/-netic',
+                component: ComponentCreator('/category/-netic', '562'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/category/️-nextcloud',
                 component: ComponentCreator('/category/️-nextcloud', '5d9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/category/-package-npm',
+                component: ComponentCreator('/category/-package-npm', '372'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/category/-packages-sdk',
+                component: ComponentCreator('/category/-packages-sdk', '08f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -114,6 +132,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/category/plugin-minecraft',
+                component: ComponentCreator('/category/plugin-minecraft', 'c6b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docker/docker-compose',
                 component: ComponentCreator('/docker/docker-compose', 'ea5'),
                 exact: true,
@@ -128,6 +152,72 @@ export default [
               {
                 path: '/docker/quest-ce-que-docker',
                 component: ComponentCreator('/docker/quest-ce-que-docker', '98b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/api',
+                component: ComponentCreator('/netic/api', 'e66'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/introduction',
+                component: ComponentCreator('/netic/introduction', '0bf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/packages/npm',
+                component: ComponentCreator('/netic/packages/npm', 'ad8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/packages/npm/installation',
+                component: ComponentCreator('/netic/packages/npm/installation', '9f5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/plugin/administration',
+                component: ComponentCreator('/netic/plugin/administration', '281'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/plugin/api-developpeurs',
+                component: ComponentCreator('/netic/plugin/api-developpeurs', '920'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/plugin/configuration',
+                component: ComponentCreator('/netic/plugin/configuration', '159'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/plugin/depannage',
+                component: ComponentCreator('/netic/plugin/depannage', 'e80'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/plugin/installation',
+                component: ComponentCreator('/netic/plugin/installation', '825'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/plugin/introduction',
+                component: ComponentCreator('/netic/plugin/introduction', 'a42'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/netic/plugin/utilisation-joueurs',
+                component: ComponentCreator('/netic/plugin/utilisation-joueurs', '8f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

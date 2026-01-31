@@ -94,6 +94,7 @@ Cette documentation vous guide à travers l'installation et la configuration de 
 | 🐳 **Docker** | Conteneurisation d'applications | ⭐⭐ |
 | 🔷 **Podman** | Alternative à Docker | ⭐⭐ |
 | ☁️ **Nextcloud** | Solution de stockage cloud privé | ⭐⭐ |
+| ☁️ **Nextcloud** |  | ⭐⭐⭐ |
 
 ### 📖 Structure de la Documentation
 

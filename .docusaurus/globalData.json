@@ -31,6 +31,61 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "netic/api",
+              "path": "/netic/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/introduction",
+              "path": "/netic/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/packages/npm/installation",
+              "path": "/netic/packages/npm/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/packages/npm/README",
+              "path": "/netic/packages/npm/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/plugin/administration",
+              "path": "/netic/plugin/administration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/plugin/api-developpeurs",
+              "path": "/netic/plugin/api-developpeurs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/plugin/configuration",
+              "path": "/netic/plugin/configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/plugin/depannage",
+              "path": "/netic/plugin/depannage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/plugin/installation",
+              "path": "/netic/plugin/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/plugin/introduction",
+              "path": "/netic/plugin/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/plugin/utilisation-joueurs",
+              "path": "/netic/plugin/utilisation-joueurs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "nextcloud/introduction-a-nextcloud/guide-dinstallation",
               "path": "/nextcloud/introduction-a-nextcloud/guide-dinstallation",
               "sidebar": "tutorialSidebar"
@@ -188,6 +243,26 @@
             {
               "id": "/category/-introduction-à-nextcloud",
               "path": "/category/-introduction-à-nextcloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-netic",
+              "path": "/category/-netic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/plugin-minecraft",
+              "path": "/category/plugin-minecraft",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-packages-sdk",
+              "path": "/category/-packages-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-package-npm",
+              "path": "/category/-package-npm",
               "sidebar": "tutorialSidebar"
             }
           ],
