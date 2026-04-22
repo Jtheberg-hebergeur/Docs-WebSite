@@ -1,0 +1,20 @@
+import lunr from "C:\\Users\\kylia\\Documents\\GitHub\\Docs-WebSite\\node_modules\\lunr\\lunr.js";
+require("C:\\Users\\kylia\\Documents\\GitHub\\Docs-WebSite\\node_modules\\lunr-languages\\lunr.stemmer.support.js")(lunr);
+require("C:\\Users\\kylia\\Documents\\GitHub\\Docs-WebSite\\node_modules\\lunr-languages\\lunr.fr.js")(lunr);
+require("C:\\Users\\kylia\\Documents\\GitHub\\Docs-WebSite\\node_modules\\lunr-languages\\lunr.multi.js")(lunr);
+export const language = ["fr","en"];
+export const removeDefaultStopWordFilter = false;
+export const removeDefaultStemmer = false;
+export { default as Mark } from "C:\\Users\\kylia\\Documents\\GitHub\\Docs-WebSite\\node_modules\\mark.js\\dist\\mark.js"
+export const searchIndexUrl = "search-index{dir}.json?_=9e5cdf08";
+export const searchResultLimits = 8;
+export const searchResultContextMaxLength = 50;
+export const explicitSearchResultPath = true;
+export const searchBarShortcut = true;
+export const searchBarShortcutHint = true;
+export const searchBarPosition = "right";
+export const docsPluginIdForPreferredVersion = undefined;
+export const indexDocs = true;
+export const searchContextByPaths = null;
+export const hideSearchBarWithNoSearchContext = false;
+export const useAllContextsWithNoSearchContext = false;

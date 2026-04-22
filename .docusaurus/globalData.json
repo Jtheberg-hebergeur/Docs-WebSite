@@ -31,6 +31,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "netic/api",
+              "path": "/netic/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "nextcloud/introduction-a-nextcloud/guide-dinstallation",
               "path": "/nextcloud/introduction-a-nextcloud/guide-dinstallation",
               "sidebar": "tutorialSidebar"
@@ -178,6 +183,11 @@
             {
               "id": "/category/-podman",
               "path": "/category/-podman",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-netic-api",
+              "path": "/category/-netic-api",
               "sidebar": "tutorialSidebar"
             },
             {

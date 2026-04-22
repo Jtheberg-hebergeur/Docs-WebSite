@@ -33,6 +33,19 @@ const config = {
     locales: ['fr'],
   },
 
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+        language: ["fr", "en"],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+      }),
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -42,7 +55,7 @@ const config = {
           sidebarPath: './sidebars.js',
           editUrl: 'https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/',
           showLastUpdateAuthor: false,
-          showLastUpdateTime: false,
+          showLastUpdateTime: true,
           routeBasePath: '/', // Utilise la racine pour la documentation
           breadcrumbs: true,
           beforeDefaultRemarkPlugins: [],
