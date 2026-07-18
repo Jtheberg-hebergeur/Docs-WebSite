@@ -1,8 +1,8 @@
 {
-  "label": "🤖 Netic API",
+  "label": "🤖 Netic",
   "position": 5,
   "link": {
-    "type": "generated-index",
-    "description": "Documentation officielle de l'API Netic."
+    "type": "doc",
+    "id": "netic/api/intro"
   }
 }

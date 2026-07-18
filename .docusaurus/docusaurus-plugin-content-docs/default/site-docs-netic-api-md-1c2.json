@@ -11,7 +11,7 @@
   "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/netic/api.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": null,
+  "lastUpdatedAt": 1539502055000,
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1,
@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🤖 Netic API",
-    "permalink": "/category/-netic-api"
+    "title": "Gestion des clés API",
+    "permalink": "/netic/api/cles"
   },
   "next": {
     "title": "☁️ Nextcloud",
