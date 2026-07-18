@@ -1,0 +1,30 @@
+{
+  "id": "netic/api",
+  "title": "Documentation API",
+  "description": "Guide complet pour utiliser l'API Netic (v1 et v2).",
+  "source": "@site/docs/netic/api.md",
+  "sourceDirName": "netic",
+  "slug": "/netic/api",
+  "permalink": "/netic/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/netic/api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": null,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Documentation API",
+    "description": "Guide complet pour utiliser l'API Netic (v1 et v2)."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤖 Netic API",
+    "permalink": "/category/-netic-api"
+  },
+  "next": {
+    "title": "☁️ Nextcloud",
+    "permalink": "/category/️-nextcloud"
+  }
+}

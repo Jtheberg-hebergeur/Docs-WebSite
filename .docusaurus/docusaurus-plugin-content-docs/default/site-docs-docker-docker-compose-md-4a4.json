@@ -11,6 +11,7 @@
   "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/docker/docker-compose.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": null,
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Docker Compose",
