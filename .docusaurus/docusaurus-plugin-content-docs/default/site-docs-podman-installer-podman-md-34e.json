@@ -11,7 +11,7 @@
   "editUrl": "https://github.com/Jtheberg-hebergeur/Docs-WebSite/edit/Public/docs/podman/installer-podman.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": null,
+  "lastUpdatedAt": 1539502055000,
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1,
@@ -26,7 +26,7 @@
     "permalink": "/category/-podman"
   },
   "next": {
-    "title": "🤖 Netic API",
-    "permalink": "/category/-netic-api"
+    "title": "Introduction",
+    "permalink": "/netic/api/intro"
   }
 }

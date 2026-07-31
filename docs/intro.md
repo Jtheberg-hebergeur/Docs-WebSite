@@ -1,13 +1,13 @@
 ---
 sidebar_position: 1
-slug: /
+title: Introduction
 author: Kiz___
 author_title: Président de Jtheberg.cloud
 author_url: https://github.com/KizYTB
 author_image_url: https://github.com/KizYTB.png
 ---
 
-# 🚀 Bienvenue sur Jtheberg.cloud
+# 🚀 Introduction à Jtheberg.cloud
 
 **Votre partenaire de confiance pour l'hébergement haute performance** 🌟
 
@@ -19,24 +19,10 @@ Jtheberg.cloud est une plateforme d'hébergement moderne offrant des solutions V
 
 ### 💪 Nos avantages
 
-<div className="advantages-grid">
-  <div className="advantage-card advantage-card-1">
-    <h4>🚀 Performance Exceptionnelle</h4>
-    <p>Serveurs optimisés avec les dernières technologies pour des performances maximales. Infrastructure moderne et scalable.</p>
-  </div>
-  <div className="advantage-card advantage-card-2">
-    <h4>🔒 Sécurité Renforcée</h4>
-    <p>Protection DDoS avancée, surveillance 24/7, sauvegardes automatiques et infrastructure sécurisée.</p>
-  </div>
-  <div className="advantage-card advantage-card-3">
-    <h4>💬 Support Réactif</h4>
-    <p>Équipe technique disponible pour vous accompagner. Réponse rapide et support de qualité.</p>
-  </div>
-  <div className="advantage-card advantage-card-4">
-    <h4>💰 Tarifs Transparents</h4>
-    <p>Prix compétitifs sans frais cachés. Facturation claire et flexible selon vos besoins.</p>
-  </div>
-</div>
+- 🚀 **Performance Exceptionnelle** — Serveurs optimisés avec les dernières technologies pour des performances maximales. Infrastructure moderne et scalable.
+- 🔒 **Sécurité Renforcée** — Protection DDoS avancée, surveillance 24/7, sauvegardes automatiques et infrastructure sécurisée.
+- 💬 **Support Réactif** — Équipe technique disponible pour vous accompagner. Réponse rapide et support de qualité.
+- 💰 **Tarifs Transparents** — Prix compétitifs sans frais cachés. Facturation claire et flexible selon vos besoins.
 
 ---
 
@@ -47,6 +33,7 @@ Jtheberg.cloud est une plateforme d'hébergement moderne offrant des solutions V
 Serveurs virtuels privés avec ressources dédiées, SSD NVMe rapides et bande passante illimitée. Parfait pour vos applications exigeantes.
 
 **Caractéristiques :**
+
 - Processeurs haute performance
 - RAM dédiée
 - Stockage SSD NVMe
@@ -58,6 +45,7 @@ Serveurs virtuels privés avec ressources dédiées, SSD NVMe rapides et bande p
 Solutions spécialisées pour héberger vos serveurs de jeux avec Pterodactyl Panel. Support pour Minecraft, CS2, Rust, et bien plus encore.
 
 **Inclus :**
+
 - Pterodactyl Panel pré-installé
 - Wings (Daemon) configuré
 - Support Blueprint
@@ -68,6 +56,7 @@ Solutions spécialisées pour héberger vos serveurs de jeux avec Pterodactyl Pa
 Hébergement web professionnel avec Plesk, optimisé pour WordPress, applications PHP et bien plus.
 
 **Fonctionnalités :**
+
 - Panel Plesk inclus
 - SSL gratuit
 - Emails professionnels
@@ -118,16 +107,15 @@ Utilisez le menu de gauche pour naviguer entre les différentes sections de la d
 
 Notre équipe est là pour vous aider ! N'hésitez pas à nous contacter :
 
-- 📧 **Email** : [support@jtheberg.cloud](mailto:support@jtheberg.cloud)
-- 💬 **Discord** : [Rejoignez notre communauté](https://discord.jtheberg.cloud)
+- 📧 **Email** : [contact@jtheberg.cloud](mailto:contact@jtheberg.cloud)
+- 💬 **Discord** : [Rejoignez notre communauté](https://discord.gg/kYwHhPKXqH)
 - 🌐 **Site web** : [jtheberg.cloud](https://jtheberg.cloud)
 - 🐛 **GitHub** : [Signalez un problème](https://github.com/Jtheberg-hebergeur/Docs-WebSite/issues)
 
 ### 🤝 Contribuer à la Documentation
 
-Cette documentation est un projet communautaire ! Vous avez trouvé une erreur ? Vous souhaitez améliorer un guide ? 
+Cette documentation est un projet communautaire ! Vous avez trouvé une erreur ? Vous souhaitez améliorer un guide ?
 
 👉 Consultez notre [Guide de Contribution](https://github.com/Jtheberg-hebergeur/Docs-WebSite/blob/main/CONTRIBUTING.md) pour savoir comment contribuer.
 
 **Merci à tous nos contributeurs !** 🙏
-

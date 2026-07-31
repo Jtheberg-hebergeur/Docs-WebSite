@@ -27,12 +27,37 @@
             },
             {
               "id": "intro",
-              "path": "/",
+              "path": "/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "netic/api",
-              "path": "/netic/api",
+              "id": "netic/api/cles",
+              "path": "/netic/api/cles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/api/erreurs",
+              "path": "/netic/api/erreurs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/api/exemples",
+              "path": "/netic/api/exemples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/api/intro",
+              "path": "/netic/api/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/api/v1",
+              "path": "/netic/api/v1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "netic/api/v2",
+              "path": "/netic/api/v2",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -186,8 +211,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/-netic-api",
-              "path": "/category/-netic-api",
+              "id": "/category/-api-netic",
+              "path": "/category/-api-netic",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -205,7 +230,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/",
+                "path": "/intro",
                 "label": "intro"
               }
             }

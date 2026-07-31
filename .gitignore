@@ -1,1 +1,5 @@
 /node_modules
+/.docusaurus
+/.vscode
+/build
+/docs/netic

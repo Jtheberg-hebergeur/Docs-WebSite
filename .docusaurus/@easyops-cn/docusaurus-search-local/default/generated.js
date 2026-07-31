@@ -6,7 +6,7 @@ export const language = ["fr","en"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;
 export { default as Mark } from "C:\\Users\\kylia\\Documents\\GitHub\\Docs-WebSite\\node_modules\\mark.js\\dist\\mark.js"
-export const searchIndexUrl = "search-index{dir}.json?_=9e5cdf08";
+export const searchIndexUrl = "search-index{dir}.json?_=0c0c8e5e";
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = true;
