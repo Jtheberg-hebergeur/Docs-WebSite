@@ -107,8 +107,8 @@ Utilisez le menu de gauche pour naviguer entre les différentes sections de la d
 
 Notre équipe est là pour vous aider ! N'hésitez pas à nous contacter :
 
-- 📧 **Email** : [support@jtheberg.cloud](mailto:support@jtheberg.cloud)
-- 💬 **Discord** : [Rejoignez notre communauté](https://discord.jtheberg.cloud)
+- 📧 **Email** : [contact@jtheberg.cloud](mailto:contact@jtheberg.cloud)
+- 💬 **Discord** : [Rejoignez notre communauté](https://discord.gg/kYwHhPKXqH)
 - 🌐 **Site web** : [jtheberg.cloud](https://jtheberg.cloud)
 - 🐛 **GitHub** : [Signalez un problème](https://github.com/Jtheberg-hebergeur/Docs-WebSite/issues)
 
